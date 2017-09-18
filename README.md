@@ -4,3 +4,6 @@ this file contains certain commands
 
 cd command
 to create directpry
+
+pwd
+presently working directory
