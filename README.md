@@ -6,4 +6,7 @@ cd command
 to create directpry
 
 pwd
-presently working directory
+presently working directorystm det
+
+who
+for operating sy
